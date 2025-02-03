@@ -21,8 +21,8 @@ It provides an advanced educational environment that facilitates communication, 
 
 ### 👨‍👩‍👧‍👦 2. Parents Section – Monitor Your Child’s Progress!
 - **📂 Child Profiles**: Easily view academic performance and school records.
+- **💰 School Fees**: Check the current dues and review the amount to be paid to the school.
 - **✉️ Messages & Chats**: Communicate directly with teachers and administrators.
-- **💰 School Fees**: Check and pay school fees online.
 - **📢 Complaints & Feedback**: Submit inquiries or feedback to the school administration.
 
 ### 👩‍🏫 3. Teachers Section – Advanced Tools for Classroom Management!
