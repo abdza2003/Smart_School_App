@@ -3,7 +3,8 @@
 **A comprehensive application for seamlessly managing the educational process, connecting students, parents, teachers, and school administration in one interactive platform.**
 
 
-![Image](https://github.com/user-attachments/assets/c9a73735-e7e3-4471-b2b8-e863bcab380e)
+![Image](https://github.com/user-attachments/assets/c9758424-25e7-48ed-98b2-86bf350b59cc)
+
 
 ## ✨ Why Smart School App?
 
