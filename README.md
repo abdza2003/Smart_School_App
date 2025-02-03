@@ -57,5 +57,12 @@ The app is built using the latest technologies to ensure high performance and a 
 [![View Design on Figma](https://img.shields.io/badge/View%20on%20Figma-Orange?style=for-the-badge)](https://www.figma.com/design/dw0N0tQcsviawZ2eOqyBxK/school-project?node-id=2080-4027&p=f)
 
 
+## Screenshots
+
+| ![Image1](https://github.com/user-attachments/assets/1b26d535-2458-494a-bd76-ec8a6f1472b2) | ![Image2](https://github.com/user-attachments/assets/9bee5ec1-0e79-4789-83e4-b02414dfe33d) | ![Image3](https://github.com/user-attachments/assets/df98414e-3202-4760-86d7-edd6ab98355a) |
+|:------------------------:|:------------------------:|:------------------------:|
+
+
+
 
 
