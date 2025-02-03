@@ -1,1 +1,1 @@
-# Smart_SCHOOL
+# Smart School App
