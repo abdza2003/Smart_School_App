@@ -4,7 +4,9 @@
 
 ## ✨ Why Smart School App?
 
-It provides an advanced educational environment that facilitates communication, tracks academic performance, and supports smart school management through specialized sections for each category of users.
+It provides an advanced educational environment that facilitates communication, tracks academic performance, and supports smart school management through specialized sections for each category of users.  
+The app supports both **Arabic** and **English** languages to cater to a diverse user base, ensuring accessibility for a wide range of users.
+
 
 ## 📚 App Sections & Features
 
