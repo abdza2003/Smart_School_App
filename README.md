@@ -2,6 +2,9 @@
 
 **A comprehensive application for seamlessly managing the educational process, connecting students, parents, teachers, and school administration in one interactive platform.**
 
+
+![Image](https://github.com/user-attachments/assets/c9a73735-e7e3-4471-b2b8-e863bcab380e)
+
 ## ✨ Why Smart School App?
 
 It provides an advanced educational environment that facilitates communication, tracks academic performance, and supports smart school management through specialized sections for each category of users.  
@@ -47,8 +50,12 @@ The app is built using the latest technologies to ensure high performance and a 
 
 🔹 **The Smart School App is the ultimate solution for a more efficient and seamless educational experience!** 🚀
 
+
 ## 🔗 Quick Links
 
 [![Visit Main Website](https://img.shields.io/badge/Visit%20Website-Dark%20Blue?style=for-the-badge)](https://smart-school.co/en) &nbsp;&nbsp;
 [![View Design on Figma](https://img.shields.io/badge/View%20on%20Figma-Orange?style=for-the-badge)](https://www.figma.com/design/dw0N0tQcsviawZ2eOqyBxK/school-project?node-id=2080-4027&p=f)
+
+
+
 
