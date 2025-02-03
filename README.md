@@ -44,3 +44,9 @@ The app is built using the latest technologies to ensure high performance and a 
 - **🔥 Push Notifications**: Firebase
 
 🔹 **The Smart School App is the ultimate solution for a more efficient and seamless educational experience!** 🚀
+
+## 🔗 Quick Links
+
+[![Visit Main Website](https://img.shields.io/badge/Visit%20Website-Blue?style=for-the-badge)](https://your-main-website.com)
+
+[![View Design on Figma](https://img.shields.io/badge/View%20on%20Figma-Purple?style=for-the-badge)](https://your-figma-link.com)
