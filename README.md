@@ -54,8 +54,18 @@ The app is built using the latest technologies to ensure high performance and a 
 
 ## 🔗 Quick Links
 
-[![Website](https://img.shields.io/badge/🌐%20Visit%20Website-0056D2?style=for-the-badge)](https://smart-school.co/en)  
-[![Figma](https://img.shields.io/badge/🎨%20View%20on%20Figma-FF9900?style=for-the-badge)](https://www.figma.com/design/dw0N0tQcsviawZ2eOqyBxK/school-project?node-id=2080-4027&p=f)
+## 🔗 Quick Links
+
+<p align="center">
+  <a href="https://smart-school.co/en">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Website-0056D2?style=for-the-badge" alt="Visit Website">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.figma.com/design/dw0N0tQcsviawZ2eOqyBxK/school-project?node-id=2080-4027&p=f">
+    <img src="https://img.shields.io/badge/🎨%20View%20on%20Figma-FF9900?style=for-the-badge" alt="View on Figma">
+  </a>
+</p>
+
 
 
 ## Screenshots
