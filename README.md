@@ -48,6 +48,9 @@ The app is built using the latest technologies to ensure high performance and a 
 - **🔗 Backend**: PHP - Laravel
 - **💾 Database**: MySQL
 - **🔥 Push Notifications**: Firebase
+- **🚨 Error & Performance Monitoring**: Sentry.io
+
+
 
 🔹 **The Smart School App is the ultimate solution for a more efficient and seamless educational experience!** 🚀
 
